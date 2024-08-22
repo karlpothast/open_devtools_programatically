@@ -1,4 +1,5 @@
 # open_devtools_programatically
 A way to open devtools programatically with xdotool on linux
 
-![devtools](https://github.com/user-attachments/assets/73730011-065a-4f8a-9322-07ba114aa07c)
+
+![output-onlinegiftools](https://github.com/user-attachments/assets/55a1398b-71e6-4eea-8346-cf6bd46f3589)
