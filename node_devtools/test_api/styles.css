@@ -1,1 +1,41 @@
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+  display:flex;
+  flex-direction:row;
+  align-items:left;
+  justify-content:left;
+  border-bottom:1px solid black;
+  gap: 10px;
+  font-size:18px;
+  margin-top:0.5vh;
+}
+.header img {
+  width:35px;
+  margin-left:5px;
+}
+.header-title{
+  align-self:center;
+}
+.content {
+  margin-left:20px;
+  margin-top:10px;
+  width:500px;
+  display:flex;
+  flex-direction:column;
+  align-items:left;
+  justify-content:left;
+  font-size:14px;
+}
+.content  button {
+  width:100px;
+}
+.content span {
+  color:blue;
+}
